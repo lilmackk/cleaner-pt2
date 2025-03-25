@@ -178,7 +178,7 @@ echo ===========================================================
 echo                 BAN TRACE CLEANING COMPLETE!
 echo ===========================================================
 echo.
-echo               Credits to Middle Man
+echo               
 echo.             
 echo             Please Vouch in server EVIL AIM
 echo ===========================================================
